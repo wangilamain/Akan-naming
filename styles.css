@@ -1,0 +1,10 @@
+body{
+align-items: center;
+background-image: url(images/p.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.forms {
+  align-items: center;
+  text-align: center;
+}
